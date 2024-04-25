@@ -1,24 +1,19 @@
-# README
+# DogBnB 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DogBnB is a platform for booking dog walks, where dog owners can find and book dogsitters to take care of their dogs while they're busy.
 
-Things you may want to cover:
 
-* Ruby version
+## Installation
 
-* System dependencies
+1. Clone this repository to your local machine.
+2. Make sure you have Ruby and Rails installed on your system.
+3. Run `bundle install` to install dependencies.
+4. Set up the database by running `rails db:create` followed by `rails db:migrate`.
 
-* Configuration
+## Contributors
 
-* Database creation
+- [Thomas](https://github.com/ZealRa)
+- [Sacha](https://github.com/MacDuPain)
+- [Céline](https://github.com/linexploit)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feel free to contribute by opening issues or submitting pull requests!
